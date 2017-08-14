@@ -1,0 +1,8 @@
+﻿start_chrome()
+go_to("bing.com")
+write("cloudsystems")
+click(Button("search"))
+click(Link("Cloud Systems"))
+scroll_down()
+click("Contact Us")
+kill_browser()
