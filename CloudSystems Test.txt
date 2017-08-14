@@ -8,4 +8,5 @@
 >>> click(Link("Cloud Systems"))
 >>> scroll_down()
 >>> click("Contact Us")
+>>> kill_browser()
 
